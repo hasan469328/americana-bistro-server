@@ -15,14 +15,11 @@ app.get('/chef', (req, res) =>{
   res.send(chefData)
 })
 
-app.get('/categories/:id', (req, res) => {
+app.get('/chef/:id', (req, res) => {
   const id = req.params.id;
-  if(id == 0){
-    res.send(news)
-  }
-  else{
-    const categoryNews = news.filter(n => n.category_id === id);
-    res.send(categoryNews)
+  if(id){
+    const chef = chefData.find(c=> c.id == id);
+    res.send(chef)
   }
 })
 
@@ -32,7 +29,7 @@ app.get('/news', (req,res) =>{
 
 app.get('/news/:id', (req, res) =>{
   const id = req.params.id;
-  const specificNews = news.find(n=> n._id == id);
+  
   res.send(specificNews)
 })
 

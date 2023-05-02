@@ -5,7 +5,43 @@
     "experience": 50,
     "recipes": 200,
     "likes": 15000,
-    "image": "https://i.ibb.co/cXNjSnK/happy-young-cook-uniform-holding-salad.jpg"
+    "image": "https://i.ibb.co/cXNjSnK/happy-young-cook-uniform-holding-salad.jpg",
+    "bio": "Alice Waters is a chef, author, and television personality known for her approachable recipes and charming personality. She hosts the TV show 'Barefoot Contessa' and has written several best-selling cookbooks.",
+    "recipe": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        "img": "https://i.ibb.co/Pmvw8Br/beef-cotlet-burger-with-sauce-wooden-board.jpg",
+        "ingredients": [
+          "Ground beef",
+          "Salt",
+          "Pepper",
+          "American cheese",
+          "Hamburger buns"
+        ],
+        "cooking_method": "1. Preheat grill to medium-high heat. 2. Season beef with salt and pepper and shape into patties. 3. Grill patties for 5-6 minutes per side, or until cooked through. 4. Add cheese to the patties during the last minute of grilling. 5. Toast the buns on the grill. 6. Assemble the burgers with the patties and any desired toppings. ",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Southern Fried Chicken",
+        "img": "https://i.ibb.co/6YWBqfX/crispy-fried-chicken-plate-with-salad-carrot.jpg",
+        "ingredients": [
+          "Chicken pieces",
+          "Buttermilk",
+          "Flour",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "1. Soak chicken pieces in buttermilk for at least 1 hour. 2. In a separate bowl, mix flour, salt, and pepper. 3. Remove chicken pieces from buttermilk and dredge in the flour mixture. 4. Heat oil in a large skillet over medium-high heat. 5. Fry chicken pieces until golden brown and cooked through, about 8-10 minutes per side. 6. Drain on paper towels and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "New England Clam Chowder",
+        "img":"https://i.ibb.co/QYNjgRQ/flat-lay-mushrooms-bisque-condiments-with-copy-space.jpg",
+        "ingredients": ["Clams", "Bacon", "Onion", "Potatoes", "Heavy cream"],
+        "cooking_method": "1. Cook bacon in a large pot until crispy. Remove bacon and set aside, leaving the fat in the pot. 2. Add chopped onion and cook until softened. 3. Add potatoes and enough water to cover, then bring to a boil. 4. Reduce heat and simmer until potatoes are tender. 5. Add clams and their juice and simmer until clams are cooked through. 6. Add heavy cream and stir to combine. 7. Season with salt and pepper to taste. 8. Serve hot, garnished with the cooked bacon.",
+        "rating": 4.2
+      }
+    ]
   },
   {
     "id": 2,
@@ -13,7 +49,43 @@
     "experience": 35,
     "recipes": 300,
     "likes": 25000,
-    "image": "https://i.ibb.co/Ykq9LKW/male-chef-kitchen-cooking-dish-frying-pan.jpg"
+    "image": "https://i.ibb.co/Ykq9LKW/male-chef-kitchen-cooking-dish-frying-pan.jpg",
+    "bio": "Gordon Ramsay is a Michelin-starred chef and television personality known for his fiery personality and high standards in the kitchen. He has appeared on numerous cooking shows, including 'Hell's Kitchen' and 'MasterChef.'",
+    "recipe": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        "img": "https://i.ibb.co/Pmvw8Br/beef-cotlet-burger-with-sauce-wooden-board.jpg",
+        "ingredients": [
+          "Ground beef",
+          "Salt",
+          "Pepper",
+          "American cheese",
+          "Hamburger buns"
+        ],
+        "cooking_method": "1. Preheat grill to medium-high heat. 2. Season beef with salt and pepper and shape into patties. 3. Grill patties for 5-6 minutes per side, or until cooked through. 4. Add cheese to the patties during the last minute of grilling. 5. Toast the buns on the grill. 6. Assemble the burgers with the patties and any desired toppings. ",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Southern Fried Chicken",
+        "img": "https://i.ibb.co/6YWBqfX/crispy-fried-chicken-plate-with-salad-carrot.jpg",
+        "ingredients": [
+          "Chicken pieces",
+          "Buttermilk",
+          "Flour",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "1. Soak chicken pieces in buttermilk for at least 1 hour. 2. In a separate bowl, mix flour, salt, and pepper. 3. Remove chicken pieces from buttermilk and dredge in the flour mixture. 4. Heat oil in a large skillet over medium-high heat. 5. Fry chicken pieces until golden brown and cooked through, about 8-10 minutes per side. 6. Drain on paper towels and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "New England Clam Chowder",
+        "img":"https://i.ibb.co/QYNjgRQ/flat-lay-mushrooms-bisque-condiments-with-copy-space.jpg",
+        "ingredients": ["Clams", "Bacon", "Onion", "Potatoes", "Heavy cream"],
+        "cooking_method": "1. Cook bacon in a large pot until crispy. Remove bacon and set aside, leaving the fat in the pot. 2. Add chopped onion and cook until softened. 3. Add potatoes and enough water to cover, then bring to a boil. 4. Reduce heat and simmer until potatoes are tender. 5. Add clams and their juice and simmer until clams are cooked through. 6. Add heavy cream and stir to combine. 7. Season with salt and pepper to taste. 8. Serve hot, garnished with the cooked bacon.",
+        "rating": 4.2
+      }
+    ]
   },
   {
     "id": 3,
@@ -21,7 +93,43 @@
     "experience": 25,
     "recipes": 150,
     "likes": 12000,
-    "image": "https://i.ibb.co/K5h6XMF/portrait-smiling-chef-uniform.jpg"
+    "image": "https://i.ibb.co/K5h6XMF/portrait-smiling-chef-uniform.jpg",
+    "bio": "Anthony Bourdain was a chef, author, and television personality known for his love of food, travel, and adventure. He hosted several popular TV shows, including 'No Reservations' and 'Parts Unknown,' and wrote several best-selling books.",
+    "recipe": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        "img": "https://i.ibb.co/Pmvw8Br/beef-cotlet-burger-with-sauce-wooden-board.jpg",
+        "ingredients": [
+          "Ground beef",
+          "Salt",
+          "Pepper",
+          "American cheese",
+          "Hamburger buns"
+        ],
+        "cooking_method": "1. Preheat grill to medium-high heat. 2. Season beef with salt and pepper and shape into patties. 3. Grill patties for 5-6 minutes per side, or until cooked through. 4. Add cheese to the patties during the last minute of grilling. 5. Toast the buns on the grill. 6. Assemble the burgers with the patties and any desired toppings. ",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Southern Fried Chicken",
+        "img": "https://i.ibb.co/6YWBqfX/crispy-fried-chicken-plate-with-salad-carrot.jpg",
+        "ingredients": [
+          "Chicken pieces",
+          "Buttermilk",
+          "Flour",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "1. Soak chicken pieces in buttermilk for at least 1 hour. 2. In a separate bowl, mix flour, salt, and pepper. 3. Remove chicken pieces from buttermilk and dredge in the flour mixture. 4. Heat oil in a large skillet over medium-high heat. 5. Fry chicken pieces until golden brown and cooked through, about 8-10 minutes per side. 6. Drain on paper towels and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "New England Clam Chowder",
+        "img":"https://i.ibb.co/QYNjgRQ/flat-lay-mushrooms-bisque-condiments-with-copy-space.jpg",
+        "ingredients": ["Clams", "Bacon", "Onion", "Potatoes", "Heavy cream"],
+        "cooking_method": "1. Cook bacon in a large pot until crispy. Remove bacon and set aside, leaving the fat in the pot. 2. Add chopped onion and cook until softened. 3. Add potatoes and enough water to cover, then bring to a boil. 4. Reduce heat and simmer until potatoes are tender. 5. Add clams and their juice and simmer until clams are cooked through. 6. Add heavy cream and stir to combine. 7. Season with salt and pepper to taste. 8. Serve hot, garnished with the cooked bacon.",
+        "rating": 4.2
+      }
+    ]
   },
   {
     "id": 4,
@@ -29,7 +137,43 @@
     "experience": 30,
     "recipes": 100,
     "likes": 9000,
-    "image": "https://i.ibb.co/Sm1GqCT/funny-chef-covering-his-eyes-paprika.jpg"
+    "image": "https://i.ibb.co/Sm1GqCT/funny-chef-covering-his-eyes-paprika.jpg",
+    "bio": "Julia Child was a chef, author, and television personality who introduced French cuisine to the American public through her book 'Mastering the Art of French Cooking' and her TV show 'The French Chef.'",
+    "recipe": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        "img": "https://i.ibb.co/Pmvw8Br/beef-cotlet-burger-with-sauce-wooden-board.jpg",
+        "ingredients": [
+          "Ground beef",
+          "Salt",
+          "Pepper",
+          "American cheese",
+          "Hamburger buns"
+        ],
+        "cooking_method": "1. Preheat grill to medium-high heat. 2. Season beef with salt and pepper and shape into patties. 3. Grill patties for 5-6 minutes per side, or until cooked through. 4. Add cheese to the patties during the last minute of grilling. 5. Toast the buns on the grill. 6. Assemble the burgers with the patties and any desired toppings. ",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Southern Fried Chicken",
+        "img": "https://i.ibb.co/6YWBqfX/crispy-fried-chicken-plate-with-salad-carrot.jpg",
+        "ingredients": [
+          "Chicken pieces",
+          "Buttermilk",
+          "Flour",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "1. Soak chicken pieces in buttermilk for at least 1 hour. 2. In a separate bowl, mix flour, salt, and pepper. 3. Remove chicken pieces from buttermilk and dredge in the flour mixture. 4. Heat oil in a large skillet over medium-high heat. 5. Fry chicken pieces until golden brown and cooked through, about 8-10 minutes per side. 6. Drain on paper towels and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "New England Clam Chowder",
+        "img":"https://i.ibb.co/QYNjgRQ/flat-lay-mushrooms-bisque-condiments-with-copy-space.jpg",
+        "ingredients": ["Clams", "Bacon", "Onion", "Potatoes", "Heavy cream"],
+        "cooking_method": "1. Cook bacon in a large pot until crispy. Remove bacon and set aside, leaving the fat in the pot. 2. Add chopped onion and cook until softened. 3. Add potatoes and enough water to cover, then bring to a boil. 4. Reduce heat and simmer until potatoes are tender. 5. Add clams and their juice and simmer until clams are cooked through. 6. Add heavy cream and stir to combine. 7. Season with salt and pepper to taste. 8. Serve hot, garnished with the cooked bacon.",
+        "rating": 4.2
+      }
+    ]
   },
   {
     "id": 5,
@@ -37,7 +181,43 @@
     "experience": 20,
     "recipes": 250,
     "likes": 18000,
-    "image": "https://i.ibb.co/GFKm6Qt/young-confident-caucasian-cook-girl-chef-uniform-stands-sideways-gestures-ok-hand-sign-isolated-oran.jpg"
+    "image": "https://i.ibb.co/GFKm6Qt/young-confident-caucasian-cook-girl-chef-uniform-stands-sideways-gestures-ok-hand-sign-isolated-oran.jpg",
+    "bio": "Emeril Lagasse is a celebrity chef, restaurateur, and television personality known for his trademark catchphrases and signature dishes. He has hosted several popular TV shows, including 'Emeril Live' and 'Essence of Emeril.'",
+    "recipe": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        "img": "https://i.ibb.co/Pmvw8Br/beef-cotlet-burger-with-sauce-wooden-board.jpg",
+        "ingredients": [
+          "Ground beef",
+          "Salt",
+          "Pepper",
+          "American cheese",
+          "Hamburger buns"
+        ],
+        "cooking_method": "1. Preheat grill to medium-high heat. 2. Season beef with salt and pepper and shape into patties. 3. Grill patties for 5-6 minutes per side, or until cooked through. 4. Add cheese to the patties during the last minute of grilling. 5. Toast the buns on the grill. 6. Assemble the burgers with the patties and any desired toppings. ",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Southern Fried Chicken",
+        "img": "https://i.ibb.co/6YWBqfX/crispy-fried-chicken-plate-with-salad-carrot.jpg",
+        "ingredients": [
+          "Chicken pieces",
+          "Buttermilk",
+          "Flour",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "1. Soak chicken pieces in buttermilk for at least 1 hour. 2. In a separate bowl, mix flour, salt, and pepper. 3. Remove chicken pieces from buttermilk and dredge in the flour mixture. 4. Heat oil in a large skillet over medium-high heat. 5. Fry chicken pieces until golden brown and cooked through, about 8-10 minutes per side. 6. Drain on paper towels and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "New England Clam Chowder",
+        "img":"https://i.ibb.co/QYNjgRQ/flat-lay-mushrooms-bisque-condiments-with-copy-space.jpg",
+        "ingredients": ["Clams", "Bacon", "Onion", "Potatoes", "Heavy cream"],
+        "cooking_method": "1. Cook bacon in a large pot until crispy. Remove bacon and set aside, leaving the fat in the pot. 2. Add chopped onion and cook until softened. 3. Add potatoes and enough water to cover, then bring to a boil. 4. Reduce heat and simmer until potatoes are tender. 5. Add clams and their juice and simmer until clams are cooked through. 6. Add heavy cream and stir to combine. 7. Season with salt and pepper to taste. 8. Serve hot, garnished with the cooked bacon.",
+        "rating": 4.2
+      }
+    ]
   },
   {
     "id": 6,
@@ -45,7 +225,43 @@
     "experience": 25,
     "recipes": 200,
     "likes": 20000,
-    "image": "https://i.ibb.co/jfMLCHp/portrait-confident-man-working-as-chef-gourmet-kitchen-cooking-restaurant-dish-with-organic-food-you.jpg"
+    "image": "https://i.ibb.co/jfMLCHp/portrait-confident-man-working-as-chef-gourmet-kitchen-cooking-restaurant-dish-with-organic-food-you.jpg",
+    "bio": "Bobby Flay is a celebrity chef, restaurateur, and television personality known for his innovative approach to Southwestern cuisine. He has appeared on several cooking shows, including 'Iron Chef America' and 'Beat Bobby Flay.'",
+    "recipe": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        
+        "img": "https://i.ibb.co/Pmvw8Br/beef-cotlet-burger-with-sauce-wooden-board.jpg",
+        "ingredients": [
+          "Ground beef",
+          "Salt",
+          "Pepper",
+          "American cheese",
+          "Hamburger buns"
+        ],
+        "cooking_method": "1. Preheat grill to medium-high heat. 2. Season beef with salt and pepper and shape into patties. 3. Grill patties for 5-6 minutes per side, or until cooked through. 4. Add cheese to the patties during the last minute of grilling. 5. Toast the buns on the grill. 6. Assemble the burgers with the patties and any desired toppings. ",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Southern Fried Chicken",
+        "img": "https://i.ibb.co/6YWBqfX/crispy-fried-chicken-plate-with-salad-carrot.jpg",
+        "ingredients": [
+          "Chicken pieces",
+          "Buttermilk",
+          "Flour",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "1. Soak chicken pieces in buttermilk for at least 1 hour. 2. In a separate bowl, mix flour, salt, and pepper. 3. Remove chicken pieces from buttermilk and dredge in the flour mixture. 4. Heat oil in a large skillet over medium-high heat. 5. Fry chicken pieces until golden brown and cooked through, about 8-10 minutes per side. 6. Drain on paper towels and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "New England Clam Chowder",
+        "img":"https://i.ibb.co/QYNjgRQ/flat-lay-mushrooms-bisque-condiments-with-copy-space.jpg",
+        "ingredients": ["Clams", "Bacon", "Onion", "Potatoes", "Heavy cream"],
+        "cooking_method": "1. Cook bacon in a large pot until crispy. Remove bacon and set aside, leaving the fat in the pot. 2. Add chopped onion and cook until softened. 3. Add potatoes and enough water to cover, then bring to a boil. 4. Reduce heat and simmer until potatoes are tender. 5. Add clams and their juice and simmer until clams are cooked through. 6. Add heavy cream and stir to combine. 7. Season with salt and pepper to taste. 8. Serve hot, garnished with the cooked bacon.",
+        "rating": 4.2
+      }
+    ]
   }
 ]
-

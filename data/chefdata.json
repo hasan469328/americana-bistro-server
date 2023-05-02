@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Waters",
+    "experience": 50,
+    "recipes": 200,
+    "likes": 15000,
+    "image": "https://i.ibb.co/cXNjSnK/happy-young-cook-uniform-holding-salad.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Gordon Ramsay",
+    "experience": 35,
+    "recipes": 300,
+    "likes": 25000,
+    "image": "https://i.ibb.co/Ykq9LKW/male-chef-kitchen-cooking-dish-frying-pan.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Anthony Bourdain",
+    "experience": 25,
+    "recipes": 150,
+    "likes": 12000,
+    "image": "https://i.ibb.co/K5h6XMF/portrait-smiling-chef-uniform.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Julia Child",
+    "experience": 30,
+    "recipes": 100,
+    "likes": 9000,
+    "image": "https://i.ibb.co/Sm1GqCT/funny-chef-covering-his-eyes-paprika.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Emeril Lagasse",
+    "experience": 20,
+    "recipes": 250,
+    "likes": 18000,
+    "image": "https://i.ibb.co/GFKm6Qt/young-confident-caucasian-cook-girl-chef-uniform-stands-sideways-gestures-ok-hand-sign-isolated-oran.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bobby Flay",
+    "experience": 25,
+    "recipes": 200,
+    "likes": 20000,
+    "image": "https://i.ibb.co/jfMLCHp/portrait-confident-man-working-as-chef-gourmet-kitchen-cooking-restaurant-dish-with-organic-food-you.jpg"
+  }
+]
+

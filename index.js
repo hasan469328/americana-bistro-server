@@ -32,15 +32,6 @@ app.get("/chef/:id", (req, res) => {
   }
 });
 
-app.get("/news", (req, res) => {
-  res.send(news);
-});
-
-app.get("/news/:id", (req, res) => {
-  const id = req.params.id;
-
-  res.send(specificNews);
-});
 
 app.listen(port, () => {
   console.log(`app is running from port: ${port}`);

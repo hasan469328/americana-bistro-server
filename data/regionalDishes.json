@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/Ph0FGfY/mushroom-cream-soup-with-cream-white-bowl.jpg",
+    "region": "Northeast",
+    "dish": "New England clam chowder",
+    "description": "A creamy soup made with clams, potatoes, onions, and bacon."
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/FHYg158/pizza-with-tomato-slices-pepperoni-1.jpg",
+    "region": "Midwest",
+    "dish": "Chicago-style deep dish pizza",
+    "description": "A thick, savory pizza with a deep crust, topped with cheese, sauce, and various toppings."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/rtTLhT2/crispy-chicken-drumsticks-grilled-kfc-style-with-crackers-takeaway-1.jpg",
+    "region": "South",
+    "dish": "Southern-style fried chicken",
+    "description": "Crispy and juicy chicken, often served with mashed potatoes and gravy, collard greens, and cornbread."
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/ys1PX0J/mexican-tacos-with-chicken-bell-peppers-black-beans-fresh-vegetables.jpg",
+    "region": "Southwest",
+    "dish": "Tex-Mex tacos",
+    "description": "Tacos filled with seasoned ground beef, lettuce, cheese, and salsa, often served with rice and beans."
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/cN1y2G4/baked-salmon-fish-fillet-with-tomatoes-mushrooms-spices-diet-menu.jpg",
+    "region": "West Coast",
+    "dish": "Pacific Northwest salmon",
+    "description": "Fresh salmon grilled or baked with a variety of seasonings, often served with rice or vegetables."
+  }
+]
